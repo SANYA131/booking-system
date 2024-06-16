@@ -10,10 +10,7 @@ This is a booking system API built using Node.js, Express, and Firebase Firestor
   - [Create Event](#create-event)
   - [Get Free Slots](#get-free-slots)
   - [Get Events](#get-events)
-- [Utilities](#utilities)
-- [Error Handling](#error-handling)
-- [Running the Server](#running-the-server)
-- [License](#license)
+
 
 ## Installation
 
